@@ -1,5 +1,8 @@
 ## Hi there 👋
- ![image](https://github.com/user-attachments/assets/85e5fc7b-ca63-4b73-9bde-237b77ad55b4)
+Tecnólogo ADS (2024 -)
+![image](https://github.com/user-attachments/assets/5ff0f322-f385-40d4-af66-c14f930ac48d)
+Direito e Gestão de Negócios (2012-2019)
+![image](https://github.com/user-attachments/assets/9e8e2806-0905-4634-9485-beb44f2181ef)
 
 <!--
 **pedrohenriquebarros92/pedrohenriquebarros92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
