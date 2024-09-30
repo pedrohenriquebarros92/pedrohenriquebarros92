@@ -11,6 +11,11 @@ Direito e Gestão de Negócios (2012-2019)
 
 
 
+
+
+
+
+
 :musical_note::musical_note::musical_note::musical_note::musical_note::musical_note::musical_note:
 
 ![image](https://github.com/user-attachments/assets/51c62d52-60e2-4cc8-b824-452d2262714c)
