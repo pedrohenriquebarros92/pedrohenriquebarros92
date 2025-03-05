@@ -1,15 +1,15 @@
 :blush: 👋
 
-### Tecnólogo ADS (2024 -)
+#### Tecnólogo ADS (2024 -) :student:
 
 ![image](https://github.com/user-attachments/assets/5ff0f322-f385-40d4-af66-c14f930ac48d)
 
-### Direito e Gestão de Negócios (2012-2019) 
+#### Direito e Gestão de Negócios (2012-2019) :man_student:
 
 ![image](https://github.com/user-attachments/assets/9e8e2806-0905-4634-9485-beb44f2181ef)
 
 
-### Aprendendo:
+##### Aprendendo:
 
 
 ![image](https://github.com/user-attachments/assets/707e9067-2154-4d69-a54a-48201c0bf41f) 
@@ -24,7 +24,7 @@
 
 
 
-~~Tentando sobreviver a:~~  :persevere:
+~~Tentando sobreviver a:~~  :persevere::skull_and_crossbones:
 
 ![image](https://github.com/user-attachments/assets/2a93122c-c77f-4ccf-a588-68a803653a5b) 
 ![image](https://github.com/user-attachments/assets/0f27dad0-f634-44e5-90c8-1a7ddb921ca5)
