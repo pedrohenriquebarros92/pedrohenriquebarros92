@@ -9,7 +9,8 @@
 ![image](https://github.com/user-attachments/assets/9e8e2806-0905-4634-9485-beb44f2181ef)
 
 
-##### Aprendendo:
+##### Aprendendo: :computer::memo:
+:pencil:
 
 
 ![image](https://github.com/user-attachments/assets/707e9067-2154-4d69-a54a-48201c0bf41f) 
