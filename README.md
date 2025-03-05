@@ -5,16 +5,16 @@
 
 
 
-#### Tecnólogo ADS (2024 -) :student:
+### Tecnólogo ADS (2024 -) :student:
 
 ![image](https://github.com/user-attachments/assets/5ff0f322-f385-40d4-af66-c14f930ac48d)
 
-#### Direito e Gestão de Negócios (2012-2019) :man_student:
+### Direito e Gestão de Negócios (2012-2019) :man_student:
 
 ![image](https://github.com/user-attachments/assets/9e8e2806-0905-4634-9485-beb44f2181ef)
 
 
-##### Aprendendo: :computer::memo:
+#### Aprendendo: :computer::memo:
 
 
 ![image](https://github.com/user-attachments/assets/707e9067-2154-4d69-a54a-48201c0bf41f) 
