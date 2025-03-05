@@ -23,7 +23,9 @@
 
 
 
-~~Tentando sobreviver a:~~ persevere: 
+
+~~Tentando sobreviver a:~~  :persevere:
+
 ![image](https://github.com/user-attachments/assets/2a93122c-c77f-4ccf-a588-68a803653a5b) 
 ![image](https://github.com/user-attachments/assets/0f27dad0-f634-44e5-90c8-1a7ddb921ca5)
 
@@ -33,7 +35,6 @@
 
 
 
-![image](https://github.com/user-attachments/assets/0c72245a-bf0e-4698-9b95-420627ddbb51)
 
 
 
