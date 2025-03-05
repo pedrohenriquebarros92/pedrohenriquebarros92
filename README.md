@@ -1,4 +1,8 @@
-:blush: 👋
+:blush: 👋  ![image](https://github.com/user-attachments/assets/1c88a856-49d6-4371-b8ee-cc748452b7a5)
+
+
+
+
 
 #### Tecnólogo ADS (2024 -) :student:
 
