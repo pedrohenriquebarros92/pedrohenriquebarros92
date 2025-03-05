@@ -10,7 +10,6 @@
 
 
 ##### Aprendendo: :computer::memo:
-:pencil:
 
 
 ![image](https://github.com/user-attachments/assets/707e9067-2154-4d69-a54a-48201c0bf41f) 
