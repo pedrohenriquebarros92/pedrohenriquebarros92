@@ -31,8 +31,8 @@
 
 ~~Tentando sobreviver a:~~  :persevere::skull_and_crossbones:
 
-![image](https://github.com/user-attachments/assets/2a93122c-c77f-4ccf-a588-68a803653a5b) height: 200 
-![image](https://github.com/user-attachments/assets/0f27dad0-f634-44e5-90c8-1a7ddb921ca5) height: 200 
+<img src="![image](https://github.com/user-attachments/assets/2a93122c-c77f-4ccf-a588-68a803653a5b)" height = "500%"> 
+<img![image](https://github.com/user-attachments/assets/0f27dad0-f634-44e5-90c8-1a7ddb921ca5) 
 
 
 
