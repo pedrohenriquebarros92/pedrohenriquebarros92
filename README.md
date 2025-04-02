@@ -5,7 +5,7 @@
 
 
 
-### Tecnólogo ADS (2024 -) :student:
+### Tecnólogo ADS (2024 -presente) :student:
 
 ![image](https://github.com/user-attachments/assets/5ff0f322-f385-40d4-af66-c14f930ac48d)
 
