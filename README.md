@@ -24,11 +24,6 @@
 
 
 
-~~Tentando sobreviver a:~~  :persevere::skull_and_crossbones:
-
-![image](https://github.com/user-attachments/assets/c391b83e-0dad-4405-b202-952abb6ea52b)
-![image](https://github.com/user-attachments/assets/2a939e68-29d2-49c2-8289-33f3082d5d77)
-
 
 
 
