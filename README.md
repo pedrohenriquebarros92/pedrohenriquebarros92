@@ -1,13 +1,4 @@
-:blush: 👋  ![image](https://github.com/user-attachments/assets/72a89a9d-0424-40ae-9534-7eb8befd2722)  ![image](https://github.com/user-attachments/assets/474cef3c-cee7-435a-91db-f08c9a42f81c)
-
-
-
-
-
-
-
-
-
+:blush: 👋  
 
 ### Tecnólogo ADS (2024 -presente) :student:
 
@@ -37,6 +28,13 @@
 
 ![image](https://github.com/user-attachments/assets/c391b83e-0dad-4405-b202-952abb6ea52b)
 ![image](https://github.com/user-attachments/assets/2a939e68-29d2-49c2-8289-33f3082d5d77)
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/72a89a9d-0424-40ae-9534-7eb8befd2722)  ![image](https://github.com/user-attachments/assets/474cef3c-cee7-435a-91db-f08c9a42f81c)
 
 
 
