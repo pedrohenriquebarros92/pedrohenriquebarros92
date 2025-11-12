@@ -16,6 +16,11 @@
 ![image](https://github.com/user-attachments/assets/8f2dc527-40fb-443b-91f3-17ad6e12fe3d)
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b33d2b03-bc36-4414-9c44-4f315991df3f" />
 
+### 📊 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquebarros92&layout=compact&theme=radical)
+
+
 
 
 
