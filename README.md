@@ -37,7 +37,7 @@
 
 
 :musical_note: :musical_note: :musical_note: :musical_note: :musical_note: :musical_note: :musical_note: :musical_note: :musical_note: :musical_note: :musical_note: :musical_note: :musical_note: :musical_note::musical_note::musical_note::musical_note::musical_note::musical_note::musical_note::musical_note::musical_note::musical_note::musical_note::musical_note::musical_note::musical_note:
-![image](https://github.com/user-attachments/assets/72a89a9d-0424-40ae-9534-7eb8befd2722)  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6bdc4d55-9087-4076-b2c2-e152dbb3f45f" />
+![image](https://github.com/user-attachments/assets/72a89a9d-0424-40ae-9534-7eb8befd2722)  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/6bdc4d55-9087-4076-b2c2-e152dbb3f45f" />
 
 
 
