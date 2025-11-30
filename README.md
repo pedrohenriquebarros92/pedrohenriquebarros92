@@ -18,7 +18,7 @@
 
 #### 📊 Linguagens mais usadas:
 
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USERNAME&theme=solarized)
+![Linguagens por Repositório](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrohenriquebarros92&theme=dracula)
 
 
 
