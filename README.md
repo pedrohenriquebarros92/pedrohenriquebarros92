@@ -18,8 +18,7 @@
 
 #### 📊 Linguagens mais usadas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquebarros92e&layout=compact&theme=dark)
-
+[![Linguagens por Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrohenriquebarros92&theme=default)]
 
 
 
