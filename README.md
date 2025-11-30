@@ -15,7 +15,6 @@
 ![image](https://github.com/user-attachments/assets/707e9067-2154-4d69-a54a-48201c0bf41f) 
 ![image](https://github.com/user-attachments/assets/8f2dc527-40fb-443b-91f3-17ad6e12fe3d)
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b33d2b03-bc36-4414-9c44-4f315991df3f" />
-<a href="https://pt.vecteezy.com/png/32050116-figma-3d-icone">
 
 #### 📊 Linguagens mais usadas:
 
