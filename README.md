@@ -18,9 +18,7 @@
 
 #### 📊 Linguagens mais usadas:
 
-![Top Linguagens](pedrohenriquebarros92-readme-stats.vercel.app)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?pedrohenriquebarros92#
 
 
 
